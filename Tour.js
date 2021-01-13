@@ -75,7 +75,6 @@ const Tour = () => {
 		);
 	};
 
-	//GET READ MORE BUTTON TO WORK ON JUST ONE TOUR AT A TIME
 
 	return (
 		<>
